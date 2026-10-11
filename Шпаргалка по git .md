@@ -61,8 +61,6 @@ git начнёт отслеживать изменения
 используйте команду git log, чтобы увидеть
 количество сохранений
 
-<img width="956" height="153" alt="git log" src="https://github.com/user-attachments/assets/d675548a-3284-405a-950b-381c54a95cf9" />
-
 
 Команда git checkout
  Переключение между версиями.
