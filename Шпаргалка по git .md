@@ -1,3 +1,4 @@
+<img width="986" height="285" alt="5bec1e52-5a31-4dc0-89ad-dd1089e6e229" src="https://github.com/user-attachments/assets/1757f7fc-f34e-4445-8126-965266b5cd03" />
 Команды Git
 
 Осваивать Git проще процессе редактирования текстовых файлов. Markdown – язык разметки,
