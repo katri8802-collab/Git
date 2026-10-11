@@ -128,7 +128,7 @@ push. При первом её использовании нужна
 ### pull request
 ![Изображение](https://github.com/katri8802-collab/Git/blob/main/picture/Снимок%20экрана%202026-10-11%20161250.png)
 ![Изображение]( https://github.com/katri8802-collab/Git/blob/main/picture/ebcbf0f5-ff8f-44c6-b37e-1b33991ee194.jpg)
-![Изображение] (https://github.com/katri8802-collab/Git/blob/main/picture/f46fe03c-51bc-445c-bcea-17822c278770.jpg)
+![Изображение](https://github.com/katri8802-collab/Git/blob/main/picture/f46fe03c-51bc-445c-bcea-17822c278770.jpg)
 В больших компаниях один ответственный за проект создает аккаунт. Другие пользователи дают
 команду pull request. Предлагать изменения на GitHub нужно в отдельной ветке. Сначала
 пользователь копирует репозиторий на свой компьютер, делает fork репозитория, затем
